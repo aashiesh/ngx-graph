@@ -1,5 +1,5 @@
 {
-  "name": "@swimlane/ngx-graph",
+  "name": "@aashiesh/ngx-graph",
   "version": "5.1.0",
   "description": "Graph visualization for angular!",
   "main": "release/index.js",
